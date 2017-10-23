@@ -1,10 +1,27 @@
 body {
   background-color: black;
   font-family: veranda;
+  text-align: center;
+  color: white;
 }
 h1 {
   font-weight: normal;
-  color: white;
   font-size: 50px;
-  align-content: center;
+}
+p {
+  color: aquamarine;
+  font-size: 16px;
+}
+h2{
+  font-weight: 300;
+  font-size: 42px;
+}
+h5{
+  font-size: 21px;
+  color: grey;
+}
+h6{
+  text-align: right;
+  color: grey;
+  font-size: 21px;
 }
